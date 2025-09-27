@@ -1,0 +1,7 @@
+# data.yaml
+train: /content/drive/MyDrive/dataset/archive/train/images
+val: /content/drive/MyDrive/dataset/archive/valid/images
+test: /content/drive/MyDrive/dataset/archive/test/images
+
+nc: 1
+names: ['car']
